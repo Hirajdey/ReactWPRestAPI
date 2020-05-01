@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-with-wordpress/static/css/main.d2532636.chunk.css",
+    "main.js": "/react-with-wordpress/static/js/main.81b37046.chunk.js",
+    "main.js.map": "/react-with-wordpress/static/js/main.81b37046.chunk.js.map",
+    "runtime-main.js": "/react-with-wordpress/static/js/runtime-main.852b0ca0.js",
+    "runtime-main.js.map": "/react-with-wordpress/static/js/runtime-main.852b0ca0.js.map",
+    "static/js/2.2291d7ea.chunk.js": "/react-with-wordpress/static/js/2.2291d7ea.chunk.js",
+    "static/js/2.2291d7ea.chunk.js.map": "/react-with-wordpress/static/js/2.2291d7ea.chunk.js.map",
+    "index.html": "/react-with-wordpress/index.html",
+    "precache-manifest.bc225ff3cf5ab9d16d82bbcbda75afcf.js": "/react-with-wordpress/precache-manifest.bc225ff3cf5ab9d16d82bbcbda75afcf.js",
+    "service-worker.js": "/react-with-wordpress/service-worker.js",
+    "static/css/main.d2532636.chunk.css.map": "/react-with-wordpress/static/css/main.d2532636.chunk.css.map",
+    "static/js/2.2291d7ea.chunk.js.LICENSE": "/react-with-wordpress/static/js/2.2291d7ea.chunk.js.LICENSE",
+    "static/media/loding.gif": "/react-with-wordpress/static/media/loding.70486fce.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.852b0ca0.js",
+    "static/js/2.2291d7ea.chunk.js",
+    "static/css/main.d2532636.chunk.css",
+    "static/js/main.81b37046.chunk.js"
+  ]
+}
