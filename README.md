@@ -1,2 +1,2 @@
-# react-with-wordpress
+react-with-wordpress
 React With WordPress  Using WP REST API
